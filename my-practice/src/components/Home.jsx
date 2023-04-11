@@ -8,7 +8,7 @@ import { addToDb } from './utils';
 const Home = () => {
     const jobData = useLoaderData()
     const [singleCart,setSingleCart]=useState(false)
-    const [cart,setCart]=useState({})
+    const [cart,setCart]=useState([])
     
     const getSingleData=(details,id)=>{
         if(details&&id){

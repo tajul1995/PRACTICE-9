@@ -8,6 +8,7 @@ import Home from './components/Home'
 import ErrorPage from './components/ErrorPage'
 import AppliedJob from './components/AppliedJob'
 import { productsAndCartData } from './components/utils'
+import Statistics from './components/Statistics'
 
 
 
@@ -28,6 +29,10 @@ const router = createBrowserRouter([
     {
       path:'/Jobs',
       element:<AppliedJob></AppliedJob>,
+      },
+      {
+        path:'/Statistics',
+        element:<Statistics></Statistics>
       }
       
     ]

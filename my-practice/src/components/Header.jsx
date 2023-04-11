@@ -1,12 +1,16 @@
 import React, { createContext } from 'react';
+import { useState } from 'react';
 import { Link, NavLink, Outlet, useLoaderData } from 'react-router-dom';
 export const AllJobContext=createContext([])
 export const AppliedJobContext=createContext([])
 const Header = () => {
     const { products, initialCart }= useLoaderData()
-    console.log(initialCart,products)
+    const [job,setJob]=useState(initialCart)
+    
     
     return (
+      <AllJobContext.Provider value={products}>
+        <AppliedJobContext.Provider value={[job,setJob]}>
         <div className='md:mx-4'>
             <div className="navbar bg-red-200 rounded-md sticky top-0 z-10">
   <div className="navbar-start">
@@ -46,6 +50,9 @@ const Header = () => {
 </div>
 <Outlet></Outlet>
         </div>
+        </AppliedJobContext.Provider>
+      </AllJobContext.Provider>
+        
     );
 };
 
