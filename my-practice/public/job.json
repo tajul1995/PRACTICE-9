@@ -1,0 +1,100 @@
+
+
+ 
+  [
+    {
+      "logo": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Z29vZ2xlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "jobTitle": "Software Engineer",
+      "category": "Information Technology",
+      "location": "San Francisco, CA",
+      "salary": "$120,000 - $150,000",
+      "jobDescription": "We are seeking a talented software engineer to join our team...",
+      "jobResponsibility": "Design and implement software solutions...",
+      "educationalRequirement": "Bachelor's degree in Computer Science or related field...",
+      "phoneNumber": "555-555-5555",
+      "email": "jobs@example.com",
+      "jobCatagory":"remote",
+      "id":"gfkkoyrtxcvfsfbj",
+      "experience":"2-5 years"
+    },
+    {
+      "logo": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8d2hhdHNhcHAlMjBsb2dvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "jobTitle": "Marketing Manager",
+      "category": "Marketing",
+      "location": "New York, NY",
+      "salary": "$80,000 - $100,000",
+      "jobDescription": "We are seeking a results-driven marketing manager to lead our team...",
+      "jobResponsibility": "Develop and execute marketing strategies...",
+      "educationalRequirement": "Bachelor's degree in Marketing or related field...",
+      "phoneNumber": "555-555-5555",
+      "email": "jobs@example.com",
+      "jobCatagory":"remote",
+      "id":"mhdjgfrwfb",
+      "experience":"2-3 years"
+    },
+    {
+      "logo": "https://images.unsplash.com/photo-1614680376408-81e91ffe3db7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2hhdHNhcHAlMjBsb2dvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "jobTitle": "Sales Representative",
+      "category": "Sales",
+      "location": "Chicago, IL",
+      "salary": "$60,000 - $80,000",
+      "jobDescription": "We are seeking a dynamic sales representative to join our team...",
+      "jobResponsibility": "Develop and maintain relationships with clients...",
+      "educationalRequirement": "Bachelor's degree in Business Administration or related field...",
+      "phoneNumber": "555-555-5555",
+      "email": "jobs@example.com",
+      "jobCatagory":"onsite",
+      "id":"lkjgdrui",
+      "experience":"1 years"
+    },
+    
+        {
+          "logo": "https://images.unsplash.com/photo-1611605698335-8b1569810432?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8d2hhdHNhcHAlMjBsb2dvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "jobTitle": "Software Engineer",
+          "category": "Information Technology",
+          "location": "San Francisco, CA",
+          "salary": "$120,000 - $150,000",
+          "jobDescription": "We are seeking a talented software engineer to join our team...",
+          "jobResponsibility": "Design and implement software solutions...",
+          "educationalRequirement": "Bachelor's degree in Computer Science or related field...",
+          "phoneNumber": "555-555-5555",
+          "email": "jobs@example.com",
+          "jobCatagory":"remote",
+          "id":"qrtuiuggg",
+          "experience":"2-4 years"
+        },
+        {
+          "logo": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8d2hhdHNhcHAlMjBsb2dvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "jobTitle": "Marketing Manager",
+          "category": "Marketing",
+          "location": "New York, NY",
+          "salary": "$80,000 - $100,000",
+          "jobDescription": "We are seeking a results-driven marketing manager to lead our team...",
+          "jobResponsibility": "Develop and execute marketing strategies...",
+          "educationalRequirement": "Bachelor's degree in Marketing or related field...",
+          "phoneNumber": "555-555-5555",
+          "email": "jobs@example.com",
+          "jobCatagory":"onsite",
+          "id":"gjhgjjhkjhjk",
+          "experience":"5 years"
+        },
+        {
+          "logo": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8d2hhdHNhcHAlMjBsb2dvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "jobTitle": "Sales Representative",
+          "category": "Sales",
+          "location": "Chicago, IL",
+          "salary": "$60,000 - $80,000",
+          "jobDescription": "We are seeking a dynamic sales representative to join our team...",
+          "jobResponsibility": "Develop and maintain relationships with clients...",
+          "educationalRequirement": "Bachelor's degree in Business Administration or related field...",
+          "phoneNumber": "555-555-5555",
+          "email": "jobs@example.com",
+          "jobCatagory":"onsite",
+          "id":"fhghhhhhgewsre",
+          "experience":"3 years"
+        }
+      
+      
+  ]
+  
+ 
